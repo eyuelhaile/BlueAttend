@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+  
+    <TextView
+        android:id="@+id/Text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/Image"
+        android:layout_toRightOf="@id/Image"
+        android:layout_marginTop="5dip"
+        android:text="Name"
+        android:textSize="20dip"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/Text2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Text1"
+        android:layout_marginTop="1dip"
+        android:text="Id number"
+        android:textSize="15dip"
+        android:layout_toRightOf="@id/Image" />
+	<TextView
+        android:id="@+id/Text3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Text2"
+        android:layout_marginTop="1dip"
+        android:text="Attendance status"
+        android:textSize="15dip" />
+</RelativeLayout> 

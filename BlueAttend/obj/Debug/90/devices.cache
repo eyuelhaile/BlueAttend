@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Device id="192.168.100.131:5555">
+    <ResultingAbi>arm64-v8a</ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="0123456789ABCDEF">
+    <ResultingAbi>armeabi-v7a</ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="192.168.137.79:5555">
+    <ResultingAbi>arm64-v8a</ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="192.168.137.80:5555">
+    <ResultingAbi>armeabi-v7a</ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="192.168.137.87:5555">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="GBAXGY16F082WP9">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="5200715f46f99519">
+    <ResultingAbi>armeabi-v7a</ResultingAbi>
+    <SdkVersion>29</SdkVersion>
+  </Device>
+  <Device id="192.168.137.107:5555">
+    <ResultingAbi>arm64-v8a</ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="192.168.137.143:5555">
+    <ResultingAbi>arm64-v8a</ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="192.168.137.164:5555">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>29</SdkVersion>
+  </Device>
+</Devices>
